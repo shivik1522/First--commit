@@ -4,10 +4,10 @@
     <meta charset="UTF-8" />
     <title>Document</title>
 	<link rel="stylesheet" href ="style.css"> 
-Привет
+ГЏГ°ГЁГўГҐГІ
 </head>
 <body>
-<h1> Home)</h1>
+<h1> Home</h1>
 <p> New edit</p>
 </body>
 </html>
